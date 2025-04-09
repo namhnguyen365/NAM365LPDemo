@@ -2,9 +2,9 @@
   "Telemetry": {"AppInsightKey": "f799a54a-6c86-47d7-8ee6-c17e37bb39da"},
   "Version": {
     "Manifest": "v4",
-    "ManifestMinWebPart": "4.0.0",
-    "CurrentWebPart": "4.2.0",
-    "RepoURL": "https://github.com/juliemturner/LPCDNDemo"
+    "ManifestMinWebPart": "5.0.0",
+    "CurrentWebPart": "5.0.0",
+    "RepoURL": "https://github.com/namhnguyen365/NAM365LPDemo"
   },
   "ContentPacks": [],
   "AssetOrigins": [
